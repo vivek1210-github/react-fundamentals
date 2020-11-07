@@ -1,0 +1,23 @@
+React Routing
+--------------
+1) install react-router-dom package
+   npm install react-router-dom
+
+2) Official Documentation
+ https://reactrouter.com/web/guides/quick-start
+
+router Configuration (App.js)
+--------------------
+/ -> Home
+/employees -> Employees
+/stocks -> Stocks
+/about -> About
+
+
+Stocks -> https://gist.githubusercontent.com/thenaveensaggam/635d9448bb93c8b96be007e47677082c/raw/62f52cdbde2970fd919c6f08a4cbf6b5c8a58088/stocks-27-10-2020.json
+
+
+
+
+
+
